@@ -1,0 +1,6 @@
+framework module Pods_JXBifrost_Example {
+  umbrella header "Pods-JXBifrost_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

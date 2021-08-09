@@ -1,0 +1,16 @@
+PODS:
+  - JXBifrost (0.1.0)
+
+DEPENDENCIES:
+  - JXBifrost (from `../`)
+
+EXTERNAL SOURCES:
+  JXBifrost:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JXBifrost: 23d7a31297afff46f261194bd507603d7d31d1d6
+
+PODFILE CHECKSUM: ed3688a1b1b7a6cf7b0bbd8bbf69878db12dec9a
+
+COCOAPODS: 1.10.1
