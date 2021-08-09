@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'JXBifrost_Example' do
+  pod 'JXBifrost', :path => '../'
+
+  target 'JXBifrost_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
